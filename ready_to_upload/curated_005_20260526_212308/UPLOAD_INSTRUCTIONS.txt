@@ -1,0 +1,26 @@
+╔══════════════════════════════════════════════════════════════╗
+║                  📤 READY TO UPLOAD                          ║
+╚══════════════════════════════════════════════════════════════╝
+
+STORY: 👀 I found out my dad isn't my biological father on my wedding day - what I did next amazed everyone
+SOURCE: r/confessions (95,000 upvotes)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 TIKTOK:
+1. Go to: https://www.tiktok.com/upload
+2. Login: @casper.black07
+3. Upload any background video
+4. Caption: Copy from title.txt
+
+🎯 YOUTUBE:
+1. Go to: https://www.youtube.com/upload  
+2. Login: @sinname2015
+3. Upload any video file
+4. Title: from title.txt
+5. Description: from description.txt
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 TIP: Use Reddit Video Maker Bot (main.py) to create actual video!
+        Then copy the .mp4 to this folder and upload!
