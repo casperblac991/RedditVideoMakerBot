@@ -1,0 +1,31 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║                  📤 UPLOAD INSTRUCTIONS                       ║
+╚══════════════════════════════════════════════════════════════╝
+
+STORY: 👀 I accidentally sent a love letter to my boss instead of my girlfriend
+SOURCE: r/tifu (67,000 upvotes)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 TIKTOK UPLOAD:
+1. Go to: https://www.tiktok.com/upload
+2. Login as @@casper.black07
+3. Upload video: story003.mp4 (or any video you create)
+4. Caption: Copy from title.txt and hashtags.txt
+
+📺 YOUTUBE UPLOAD:
+1. Go to: https://www.youtube.com/upload
+2. Login as @@sinname2015
+3. Upload video: story003.mp4 (or any video you create)
+4. Title: Copy from title.txt
+5. Description: Copy from description.txt
+6. Tags: Copy from hashtags.txt
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 TIP: Use the Reddit Video Maker Bot to generate actual video!
+   python main.py
+   Then move the output .mp4 to this folder as story003.mp4
+
+    
